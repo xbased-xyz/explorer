@@ -5,6 +5,7 @@
   "description": "A lightweight ethereum block explorer",
   "repository": "https://github.com/etherparty/explorer",
   "license": "MIT",
+  "main": "app/app.js",
   "engines": {
     "node": "16.x"
   },
